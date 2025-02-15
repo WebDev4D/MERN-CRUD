@@ -1,0 +1,1 @@
+pnpm dlx shadcn@canary add button card
